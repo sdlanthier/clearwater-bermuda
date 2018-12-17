@@ -5,3 +5,4 @@ Lanthier Technology Consulting Inc.
 
 This is my first Android project. My goal is to develop a app used by a Water Treatment & Filtration company.
 
+Created Branch: readme-edits
